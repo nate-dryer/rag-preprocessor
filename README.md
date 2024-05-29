@@ -4,7 +4,7 @@ This tool preprocesses text files for RAG-based information retrieval. It utiliz
 
 ## Key Features
 
-- Tokenization**: Splits text into tokens (words and sentences).
+- Tokenization: Splits text into tokens (words and sentences).
 - Part-of-Speech Tagging**: Assigns parts of speech to each token, such as verb, noun, adjective, etc.
 - Named Entity Recognition**: Identifies and classifies named entities in text into predefined categories.
 - Lemmatization**: Reduces words to their base or dictionary form.
