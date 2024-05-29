@@ -1,14 +1,14 @@
-# Rag File Preprocessor
+**# Rag File Preprocessor
 
 This tool preprocesses text files for RAG-based information retrieval. It utilizes operations from the Natural Language Toolkit (NLTK), such as tokenization, part-of-speech tagging, named entity recognition, and lemmatization. 
 
 ## Key Features
 
-- **Tokenization**: Splits text into tokens (words and sentences).
-- **Part-of-Speech Tagging**: Assigns parts of speech to each token, such as verb, noun, adjective, etc.
-- **Named Entity Recognition**: Identifies and classifies named entities in text into predefined categories.
-- **Lemmatization**: Reduces words to their base or dictionary form.
-- **Phone Number Extraction and Anonymization**: Detects and anonymizes phone numbers in text.
+- Tokenization**: Splits text into tokens (words and sentences).
+- Part-of-Speech Tagging**: Assigns parts of speech to each token, such as verb, noun, adjective, etc.
+- Named Entity Recognition**: Identifies and classifies named entities in text into predefined categories.
+- Lemmatization**: Reduces words to their base or dictionary form.
+- Phone Number Extraction and Anonymization**: Detects and anonymizes phone numbers in text.******
 
 ## Prerequisites
 
@@ -52,3 +52,4 @@ Contributions to the Text Preprocessing Utility are welcome!
 ## License
 
 This project is licensed under the MIT License - for more information, refer to the LICENSE file.
+**********
