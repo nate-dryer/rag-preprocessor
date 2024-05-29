@@ -48,11 +48,6 @@ Contributions to the Text Preprocessing Utility are welcome!
 2. Create a new branch for your feature or fix.
 3. Submit a pull request with a detailed description of your changes.
 
-## Contact  
-
-- **Nathan Dryer**
-- GitHub: [nate-dryer](https://github.com/nate-dryer)
-- Website: [https://natedryer.com](https://natedryer.com)  
 
 ## License
 
