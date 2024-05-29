@@ -1,4 +1,4 @@
-** Rag File Preprocessor
+Rag File Preprocessor
 
 This tool preprocesses text files for RAG-based information retrieval. It utilizes operations from the Natural Language Toolkit (NLTK), such as tokenization, part-of-speech tagging, named entity recognition, and lemmatization. 
 
